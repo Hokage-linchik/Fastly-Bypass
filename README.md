@@ -1,6 +1,6 @@
   FastlyBypass - 70+ техники обхода Fastly WAF (Legacy + Next-Gen / Signal Sciences)
   
-  Возможности:
+  Возможности:                                                                                                                                                    
   TLS Impersonation через curl_cffi (chrome126, safari17_5, firefox128)                                                                                             
   IP Spoof (9 заголовков: X-Forwarded-For, X-Real-IP, Client-IP, True-Client-IP, Fastly-Client-IP и др.)                                                            
   Varnish Backend Spoof (Via, X-Varnish, X-Cache, X-Served-By, Age)                                                                                                 
